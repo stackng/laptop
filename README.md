@@ -129,6 +129,10 @@ Programming languages, package managers, and configuration:
 [Ruby]: https://www.ruby-lang.org/en/
 [Yarn]: https://yarnpkg.com/en/
 
+
+What it doesn't set up
+---------------
+
 Databases:
 
 * [Postgres] for storing relational data

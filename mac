@@ -147,8 +147,8 @@ brew "yarn"
 cask "gpg-suite"
 
 # Databases
-brew "postgres", restart_service: :changed
-brew "redis", restart_service: :changed
+# brew "postgres", restart_service: :changed
+# brew "redis", restart_service: :changed
 EOF
 
 if brew list | grep --silent "qt@5.5"; then
